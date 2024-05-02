@@ -1,36 +1,21 @@
-# 🚀 Blast Off with Our Exciting Release Notes! 🚀
-
-### Version X.X.X - "Epic Odyssey"
-
-Hold onto your hats, folks! We're about to embark on the adventure of a lifetime with our latest update. Get ready to blast off into a galaxy of excitement and fun!
+# 🚀 April 2024 Release Notes 🚀
 
 ## 🎉 New Features
 
-- **Space-Age Innovation:** Introducing the latest and greatest feature straight from the future! It's so cutting-edge, it'll make Elon Musk jealous.
+- **Integrated Looker into the Care Platform for Clinicical Managers:** In a continuous effort to make the Care Platform a one stop shop, we've added Looker to the care platform. Clinical Managers will now be directed to the new "manager-dashboard" page on login, where they can interact with looker.
 
-- **Adventure Awaits:** We've added a sprinkle of magic to our app with this new feature. Get ready to explore uncharted territories of productivity!
 
 ## 🌟 Enhancements
 
-- **Stellar Performance:** We've fine-tuned our engines to deliver warp-speed performance. Buckle up for a smooth ride through the digital universe.
+- **Added 30 minute buffer window so no client surveys go left behind:** Sometimes clinicians need to schedule last minute appoinments, this change ensures that clients will still receive surveys even if they are scheduled last minute.
 
-- **Cosmic Visuals:** Say hello to a visual feast for your eyes! We've revamped our UI to be as dazzling as a meteor shower.
+- **Ported the Utilization page to Roofdog (the new Care Platform):** With the Utilization page now living in the new Care Platform, we updated made updates that allow for an overall better and more accessible user experience.
 
 ## 🔧 Improvements
 
-- **Mission Control:** We've tightened the bolts and fine-tuned the controls to ensure a seamless user experience. Say goodbye to glitches and hello to smooth sailing!
+- **Centralized API Layer:** Rather than the Care Platform relying on the browser to make API calls to multiple servies and perform heavy computational logic, we've moved these calls to a dedicated API layer which allows the browser to do its primary job(rendering the page.) This also puts us in a place to begin building Role Based Access.
 
-- **Interstellar Communication:** We've improved our messaging system to make collaboration feel as effortless as a chat with your favorite alien friend.
-
-## 🐞 Bug Fixes
-
-- **Closing Black Holes:** We've patched up those pesky bugs that were causing mayhem in the cosmos. Now, our app is as stable as a neutron star.
-
-- **Navigating Nebulas:** We've cleared the cosmic debris and restored order to the universe. Say goodbye to getting lost in space!
-
-## 🎊 Let's Celebrate!
-
-Thanks for joining us on this intergalactic journey! We're thrilled to have you aboard as we continue to explore the infinite possibilities of technology.
+- **Introduced smart caching:** We're now caching data which skips trips to the server, and makes the care platform feel incredibly snappy overall.
 
 To infinity and beyond,
-[Your Company Name]
+Clinician Enablement Team
