@@ -19,5 +19,7 @@
 
 - **Introduced smart caching:** We're now caching data which skips trips to the server, and makes the care platform feel incredibly snappy overall.
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx1dDhwZDRwenBvZzYyZHpveHZvbGowMWU0cmd4aHJ3N2Vka3R6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7Y6lravckuKA/giphy.gif)
+
 To infinity and beyond,
 Clinician Enablement Team
