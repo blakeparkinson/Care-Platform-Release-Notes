@@ -4,6 +4,8 @@
 
 - **Integrated Looker into the Care Platform for Clinicical Managers:** In a continuous effort to make the Care Platform a one stop shop, we've added Looker to the care platform. Clinical Managers will now be directed to the new "manager-dashboard" page on login, where they can interact with looker.
 
+![image](https://github.com/blakeparkinson/Care-Platform-Release-Notes/assets/1864277/373ef7c1-55d9-4e57-9154-6ae283042516)
+
 
 ## 🌟 Enhancements
 
