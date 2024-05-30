@@ -1,3 +1,46 @@
+# 🚀 May 2024 Release Notes 🚀
+
+## 🎉 New Features
+
+**Documentation Reminders**
+
+Notes are a key part of clinical documentation, but not the full story. To better support clinicians in completing timely & high quality documentation, we’re expanding our “Incomplete Notes” feature to encompass notes, diagnosis codes and treatment plans.
+
+Now, you’ll be reminded of the following documentation needs on your dashboard:
+- When a session note is due, or if it is overdue
+- When a diagnosis code is due, or if it is overdue
+- If your client is missing an active & primary diagnosis code in their chart
+- When a treatment plan is due, or if it is overdue
+- If a treatment plan is present but not active
+- If a treatment goal is missing a due date
+- If a treatment goal is nearing its due date, or has expired
+
+While this feature is not intended to be a replacement for the Looker dashboards on documentation timeliness and compliance and is not inclusive of all quality/compliance indicators, we hope that this feature **empowers clinicians by providing direct visibility** into their outstanding or upcoming documentation needs
+
+<img width="622" alt="Screenshot 2024-05-30 at 1 50 01 PM" src="https://github.com/blakeparkinson/Care-Platform-Release-Notes/assets/171188179/09915656-ac69-4b37-9fc7-79baee813132">
+
+
+*Note: In the case of a client returning to care with the same clinician, the due date listed on the treatment plan or dx code reminder may show the old first session date. We will refine this logic over time to improve this experience.*
+
+
+**In-App Product Announcements**
+
+To help communicate about new feature launches, we’ll be displaying announcements directly in the Care Platform. Our first version of this will go live today to announce the Documentation Reminders feature.
+
+
+**Consult Nudges**
+
+We launched a number of small, in-product nudges in Matchmaker to support our consult clinicians in improving the number of clinical fits generated at the consult appointment. These tooling updates are an important first step in using our product experience to help our consult clinicians make more informed decisions in the matching process to ensure our clients needs are met in a timely manner.
+
+
+<img width="580" alt="Screenshot 2024-05-20 at 11 06 15 AM" src="https://github.com/blakeparkinson/Care-Platform-Release-Notes/assets/171188179/d878f496-60c3-4e4c-a13c-6389296fe044">
+
+
+
+
+
+---
+
 # 🚀 April 2024 Release Notes 🚀
 
 ## 🎉 New Features
@@ -11,7 +54,7 @@
 
 - **Added 30 minute buffer window so no client surveys go left behind:** Sometimes clinicians need to schedule last minute appoinments, this change ensures that clients will still receive surveys even if they are scheduled last minute.
 
-- **Ported the Utilization page to Roofdog (the new Care Platform):** With the Utilization page now living in the new Care Platform, we updated made updates that allow for an overall better and more accessible user experience.
+- **Ported the Utilization page to Roofdog (the new Care Platform):** With the Utilization page now living in the new Care Platform, we made updates that allow for an overall better and more accessible user experience.
 
 ## 🔧 Improvements
 
