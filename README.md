@@ -1,3 +1,23 @@
+# 🚀 June 2024 Release Notes 🚀
+
+**Client Scheduler**
+
+We’ve been working tirelessly on improving the scheduling experience for our clinicians. As part of new software launch, we “beta test” the tool with a small group to get their feedback & make updates before launching to the entire team. In June, we started beta testing Client Scheduler with the part-time team. So far, we’ve heard a lot of positive feedback. Updates for network users include:
+
+- Client Scheduler for Network clinicians provides a self-service model, taking the lift off clinical leads & allowing for real-time updates to give Network clinicians the flexibility they need.
+- Network clinicians can directly edit their autoschedule target # of scheduled sessions and available
+- Client Scheduler then guides clinicians to provide enough hours for the new clients needed, without breaching labor laws on max back-to-back or daily sessions.
+- “Edit mode” makes it more apparent when you’re making changes, and tracks edits as clinicians add/delete so they can check before saving.
+
+![image](https://github.com/blakeparkinson/Care-Platform-Release-Notes/assets/1864277/f4dfbf51-31ef-4dcb-99a7-142aa0ebe7af)
+
+**Switch All Clinicians from Zoom to Meet**
+
+To simplify and scale we needed to align on a consistent strategy for video conferencing for sessions. We successfully made the conversion (all consults and client sessions are now conducted via Google Meet) and learned some lessons along the way.
+
+
+---
+
 # 🚀 May 2024 Release Notes 🚀
 
 ## 🎉 New Features
