@@ -1,3 +1,44 @@
+# 🚀 July 2024 Release Notes 🚀
+
+**Update to Requeue Reasons**
+
+Requeueing refers to putting a client back in the queue after they have been matched, but *before* they have attended a first therapy session with a treatment clinician. It’s an important workflow, but since it’s a process to manage exceptions, it’s a window into ways that our current system isn’t totally serving our needs. During requeues, we capture “requeue reasons” to better understand these exceptions.
+
+In July, we made some small changes to how we capture requeue reasons to improve our ability to learn from these exceptions. We added 1 new reason, ““clinician-initiated - conflicts with company/team meeting.” If “client-initiated — other” or “clinician-initiated — other” are selected, we also added a conditional text field that prompts the user for more info about the reason. These two “other” options account for ~19% of responses, so there is a big opportunity here to learn.
+
+*Note: “client-initiated...” is a category we reserve for requeues that happen when the client has requested the requeue due to schedule, clinical fit, etc., while “clinician-initiated” is used for situations where the clinician has requested the requeue.
+We’re excited for the to learn more from the data we’ll be able to gather with these changes!*
+
+![image](https://github.com/user-attachments/assets/10173d3d-ab21-472c-8c49-4ba9c4caced3)
+
+**Client Scheduler Onboarding and Full Launch**
+
+This has been a HUGE month for our Client Scheduler product. Over the final weeks of July, we released a series of high-impact to clinicians to make client scheduling intuitive, simple, and easy.
+  - Released Full-Time Onboarding Wizard for onboarding full-time clinicians
+    - Introduces clinicians to the product and guides them through how Client Scheduler will work
+    - Provides a template schedule and clear guidance on how to first establish availability
+- Released Full-Time Ramp experience to onboarding full-time clinicians
+    - We brought the ramp experience that we developed last year into a fully-automated and intuitive interface. It provides clinicians the context they need to set up their schedules and helps clinicians understand the guardrails we have around schedules to ensure we can meet client needs and demand.
+- Released Client Scheduler to all Full-Time and Network clinicians (with the exception of those doing consults)
+    - Network: provides a self-service model, taking the lift off clinical leads & allowing for real-time updates to give Network clinicians the flexibility they need.
+    - Network clinicians can directly edit their autoschedule target # of scheduled sessions and available
+    - Client Scheduler then guides clinicians to provide enough hours for the new clients needed, without breaching labor laws on max back-to-back or daily sessions.
+- Released Network Onboarding Wizard for onboarding Network clinicians
+    - Invites clinicians to set their target hours before accessing the tool, and explains how to manage availability.
+- Released Network Ramp experience for onboarding Network clinicians
+    - For the first time, we now offer an automated Ramp experience for network clinicians. We built on our learnings from full-time ramp to offer clinicians an automated experience that gets clinicians to their target and takes the guess-work out of the process.
+
+![image](https://github.com/user-attachments/assets/7406133d-f0d1-4c7b-90bc-130cafe44032)
+![image](https://github.com/user-attachments/assets/587ec6a8-d1b4-4ce3-8489-da68836b5714)
+![image](https://github.com/user-attachments/assets/7eaeef81-4e1a-409d-8c61-50fc4f30d2a3)
+
+
+
+
+
+
+
+
 # 🚀 June 2024 Release Notes 🚀
 
 **Client Scheduler**
