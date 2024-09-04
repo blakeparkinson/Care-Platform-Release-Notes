@@ -1,3 +1,30 @@
+# 🚀 September 2024 Release Notes 🚀
+
+## 🎉 New Features
+
+**Termination Tooling**
+
+Ending care with clients requires many operational steps, in addition to your clinical work. Moving forward, we’ll handle the non-clinical work (like canceling sessions) for you, so you can focus on supporting your clients at this big milestone in their care journey. Read more about this new tool [here]([url](https://cliniciansupport.twochairs.com/hc/en-us/articles/29451579963028-How-to-end-care-with-a-client)) and the new Termination Note [here]([url](https://cliniciansupport.twochairs.com/hc/en-us/articles/26817864973716-Writing-a-termination-note-in-Healthie)).
+
+A few changes to note:
+- When you’ve had your last session with a client, click the “End Care” button in the Care Platform & click through the prompts
+- Upcoming sessions will be canceled for you
+- A termination note will automatically be created in your client’s chart & will appear in your Documentation Reminders so you don’t lose track
+- Bonus: we’ve streamlined the Termination Note template to be quicker and easier to complete!
+<img width="626" alt="Screenshot 2024-09-04 at 11 24 29 AM" src="https://github.com/user-attachments/assets/c0f4268a-3f04-49ce-87a8-fccbf19b9380">
+
+
+
+## 🌟 Enhancements
+- **Clarified session counting:** Previously, the “Sessions” field in the Care Platform only showed the number of sessions the client has had with the current clinician. This became confusing in the case of rematches, or clients returning to care. Now, we’ll be showing the current clinician session count alongside the client’s full episode of care session count
+<img width="237" alt="Screenshot 2024-09-04 at 11 25 35 AM" src="https://github.com/user-attachments/assets/b7496525-0ebe-499b-9b28-ceefeea72fb6">
+  
+- **Removed outdated references to “tracks” and “session ranges”:** We made some changes in the Care Platform to remove guidance/features that are not in alignment with our current Care Model & were causing confusion
+- **Ported the My Clients Schedule and List pages into Roofdog (our new Care Platform application):** With these pages now living in the new Care Platform, we made updates that allow for an overall better and more accessible user experience, particularly in the My Clients list view
+<img width="1261" alt="Screenshot 2024-09-04 at 11 26 42 AM" src="https://github.com/user-attachments/assets/8a301f29-8452-472f-80de-b6e502e66e8d">
+
+
+---
 # 🚀 July 2024 Release Notes 🚀
 
 **Update to Requeue Reasons**
@@ -37,7 +64,7 @@ This has been a HUGE month for our Client Scheduler product. Over the final week
 
 
 
-
+---
 
 # 🚀 June 2024 Release Notes 🚀
 
