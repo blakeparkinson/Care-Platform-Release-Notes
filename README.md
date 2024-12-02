@@ -1,6 +1,31 @@
 # 🚀 September 2024 Release Notes 🚀
 
 ## 🎉 New Features
+**Help Center Embedded in Care Platform**
+
+We’re launching a new “Support” page in the Care Platform to help you find answers to any questions you may have easier & faster. You can access this by clicking the **?** icon in the side navigation. This page is linked to our Clinician Help Center (and contains the same content), but is now located in a more accessible spot. Check it out to learn more about the Care Platform, Healthie, troubleshooting tips, and more!
+
+<img width="1154" alt="in-app support - side menu view" src="https://github.com/user-attachments/assets/dfb2ffe2-0993-4040-ba35-16e16ac1c0d3">
+<img width="913" alt="Screenshot 2024-11-26 at 9 48 50 AM" src="https://github.com/user-attachments/assets/7acdf82d-6677-488f-a72a-87763f8f4346">
+
+_*Note: if you’re having trouble viewing the images in a help center article, use the link included to log in to the Help Center. Once logged in, you should then be able to view article images directly in the Care Platform_
+
+## 🌟 Enhancements
+**Care Platform Security Upgrade – Inactivity Timeout**
+
+Keeping our system (and client information!) 🔒**safe and secure**🔒 is one of our most important jobs here at Two Chairs. In an effort to enhance the security of our system, we’re adding an inactivity timeout to the Care Platform. You’re likely already familiar with this behavior in Healthie, or in other apps you use that store sensitive/private data (think - your banking app, or healthcare app like Kaiser). We know this behavior can be disruptive, so we’re doing everything we can to make this feel as smooth as possible for you all.
+
+A few details to note:
+- The Care Platform will soon automatically log you out if you are inactive for 60 minutes
+  - This might be because you are away from your computer entirely, or that you’ve just left that particular tab/window. A single click in your Care Platform tab would be considered “activity” and keep you logged in.
+- It only takes 1-2 clicks to get back into the app, since we use Google/SSO for login
+- Upon logging back in, you’ll be redirected back to the page you were previously on (rather than back to the dashboard, and needing to remember what you were doing!)
+
+
+---
+# 🚀 September 2024 Release Notes 🚀
+
+## 🎉 New Features
 
 **Termination Tooling**
 
