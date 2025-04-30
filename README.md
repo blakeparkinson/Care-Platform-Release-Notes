@@ -1,3 +1,14 @@
+# 🚀 May 2025 Release Notes 🚀
+## 🌟 Enhancements
+**Updated Layout**
+
+_Check-In Results and Schedule Buttons made more accessible_
+
+We’ve updated your My Clients page based on feedback to make the Check-In Results and Schedule buttons more accessible. These two buttons have been moved to the top of your left panel, which will no longer require you to scroll to access these buttons. We’ve also moved the End Care button to the bottom of the page. This button is not intended to be used often and so we have moved it lower on the Client’s profile. Thank you all for your feedback to make this change happen! 
+
+<img width="620" alt="Screenshot 2025-04-30 at 10 38 29 AM" src="https://github.com/user-attachments/assets/23b3f737-80b7-43a9-a9b1-1d388a5adce5" />
+
+
 # 🚀 September 2024 Release Notes 🚀
 
 ## 🎉 New Features
