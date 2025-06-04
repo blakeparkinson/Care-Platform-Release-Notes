@@ -3,9 +3,9 @@
 **Updated content in the Google Calendar Invites**
 
 As a way to more clearly support clients, we have updated the content that will be displayed in all future Google Calendar Invites. The goal of this copy change was to more clearly help clients understand…
-- …what to do when they need to make a change to their appointment
-- …what to do when they are having technical issues
-- …how to join the Google Meet and prepare for their session
+1. What to do when they need to make a change to their appointment
+2. What to do when they are having technical issues
+3. How to join the Google Meet and prepare for their session
 
 Note: These changes will only show up in NEW appointments. Any appointments you have on your calendar today will continue to have the old content. Which means it will take a few weeks before every calendar invite has been updated.
 
