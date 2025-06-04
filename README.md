@@ -1,3 +1,26 @@
+# 🚀 June 2025 Release Notes 🚀 
+## 🌟 June 5 - Enhancements 
+**Updated content in the Google Calendar Invites**
+
+As a way to more clearly support clients, we have updated the content that will be displayed in all future Google Calendar Invites. The goal of this copy change was to more clearly help clients understand…
+- …what to do when they need to make a change to their appointment
+- …what to do when they are having technical issues
+- …how to join the Google Meet and prepare for their session
+
+Note: These changes will only show up in NEW appointments. Any appointments you have on your calendar today will continue to have the old content. Which means it will take a few weeks before every calendar invite has been updated.
+
+For all future consult appointments and initial psychiatry appointments you will see:
+<img width="257" alt="Screenshot 2025-06-04 at 1 27 54 PM" src="https://github.com/user-attachments/assets/36377886-33e1-40e9-8dd7-a941c81fb8b6" />
+
+For all future therapy appointments and follow up psychiatry appointments you will see:
+<img width="262" alt="Screenshot 2025-06-04 at 1 28 08 PM" src="https://github.com/user-attachments/assets/061651e7-6cfc-44bb-a7d2-b599c4f7a343" />
+
+
+
+
+
+
+
 # 🚀 May 2025 Release Notes 🚀
 ## 🌟 Enhancements
 **Updated Layout**
