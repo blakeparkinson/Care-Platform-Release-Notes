@@ -11,11 +11,12 @@ Note: These changes will only show up in NEW appointments. Any appointments you 
 
 For all future consult appointments and initial psychiatry appointments you will see:
 
-<img width="257" alt="Screenshot 2025-06-04 at 1 27 54 PM" src="https://github.com/user-attachments/assets/36377886-33e1-40e9-8dd7-a941c81fb8b6" />
+<img width="263" alt="Screenshot 2025-06-06 at 2 42 38 PM" src="https://github.com/user-attachments/assets/664a14f0-816b-490c-9c74-123ddb7359e8" />
 
 For all future therapy appointments and follow up psychiatry appointments you will see:
 
-<img width="262" alt="Screenshot 2025-06-04 at 1 28 08 PM" src="https://github.com/user-attachments/assets/061651e7-6cfc-44bb-a7d2-b599c4f7a343" />
+<img width="267" alt="Screenshot 2025-06-06 at 2 42 57 PM" src="https://github.com/user-attachments/assets/703bdbd7-f02d-4716-bf9e-92814dce25f6" />
+
 
 
 
