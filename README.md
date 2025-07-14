@@ -1,3 +1,16 @@
+# 🚀 July 2025 Release Notes 🚀 
+## 🌟 July 14 - Enhancements 
+**End Care Workflow for Psychiatric Providers**
+
+The clinical assistant team is excited to announce that we now have an automated end care workflow for psychiatric providers as part of our efforts to bring psychiatry tooling functionality to parity with therapy.
+
+**Why does it matter?**
+- Operational efficiency - The manual steps of ending care has a a lot of overhead and this automates the administrative process both for psychiatric providers and supervisors.
+- Platform parity - Whenever possible, our functionality should work across clinicians, regardless of service line. This helps keep our experiences generalizable.
+
+**How does it work?**
+Similar to the end care workflow for therapy, this process allows psychiatric providers and their supervisors to initiate the end care process from Care Platform which 1.) generates a termination note in Healthie and 2.) cancels any future sessions with that client. Note that care will only be ended for that particular clinician and service, never across multiple clinicians at once
+
 # 🚀 June 2025 Release Notes 🚀 
 ## 🌟 June 5 - Enhancements 
 **Updated content in the Google Calendar Invites**
