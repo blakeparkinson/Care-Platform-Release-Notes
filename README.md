@@ -1,4 +1,27 @@
 # 🚀 July 2025 Release Notes 🚀 
+## 🎉 July 16 - New Features 
+**Timezone Support for Multi-State Practice**
+
+In order to better assist our clinical team members engaging in multi-state practice, we’ve rolled out our first set of improvements related to timezone support and clarity. Our goal is that folks will no longer have to do confusing timezone math as part of their documentation or scheduling workflows.
+
+This release encompasses the following tooling updates:
+1. A new “Client Location” column on My Dashboard and My Clients to display the state and timezone of each of your clients
+2. An enhanced “Appt Time” column on My Dashboard and My Clients to display the session time in your timezone as well as your client’s, if they differ
+3. State and timezone information added to the client details sidebar in their Care Platform page
+4. Session time conversions directly in the “Add/Edit Session” windows, to more clearly indicate time of session if client and clinician timezones differ
+5. A reminder in Healthie to document Session Start & Stop times in the client’s timezone
+
+<img width="315" height="353" alt="Screenshot 2025-07-16 at 8 08 16 AM" src="https://github.com/user-attachments/assets/7de69293-abd5-4ec8-806c-1e5e2cdea0ce" />
+
+
+<img width="268" height="229" alt="Screenshot 2025-07-16 at 8 14 10 AM" src="https://github.com/user-attachments/assets/7e5f48b1-0924-45a5-a784-dcf1a462c0e8" />
+
+
+<img width="222" height="203" alt="Screenshot 2025-07-16 at 8 14 17 AM" src="https://github.com/user-attachments/assets/d54b43e5-2392-4278-9533-8de1b67761f6" />
+
+
+
+
 ## 🌟 July 14 - Enhancements 
 **End Care Workflow for Psychiatric Providers**
 
